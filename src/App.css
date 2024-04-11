@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  background-color: white;
+}
+
+header {
+  height: 125px;
+  width: 100%;
+  border-bottom: lightgray solid 2px;
+}
+
+img {
+  margin-left: 72px;
+  margin-top: 38px;
+  margin-bottom: 35px;
+  height: 50px;
+  width: 43px;
+}
+
+main {
+  display: flex;
+}
+
+.minus-button {
+  margin-left: 200px;
+  margin-top: 200px;
+  height: 60px;
+  width: 100px;
+}
+
+p {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.plus-button {
+  margin-top: 200px;
+  margin-left: 200px;
+  height: 60px;
+  width: 100px;
+}
+
+.reset-button {
+  margin-top: 210px;
+  margin-left: 210px;
+  height: 40px;
+  width: 120px;
+}
